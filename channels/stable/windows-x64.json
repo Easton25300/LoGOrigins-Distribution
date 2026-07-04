@@ -1,0 +1,13 @@
+{
+  "latest_game_version": "0.1.2",
+  "game_manifest_url": "https://github.com/Easton25300/LoGOrigins-Distribution/releases/download/game-v0.1.2/manifest.json",
+
+  "latest_launcher_version": "1.0.0",
+  "launcher_manifest_url": "",
+
+  "changelog": [
+    "Version 0.1.2 available",
+    "Initial GitHub distribution test",
+    "Automatic game update system online"
+  ]
+}
