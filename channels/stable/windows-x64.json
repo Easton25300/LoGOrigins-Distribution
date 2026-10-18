@@ -2,12 +2,14 @@
   "latest_game_version": "0.1.2",
   "game_manifest_url": "https://github.com/Easton25300/LoGOrigins-Distribution/releases/download/game-v0.1.2/manifest.json",
 
-  "latest_launcher_version": "1.0.1",
-  "launcher_manifest_url": "https://github.com/Easton25300/LoGOrigins-Distribution/releases/download/launcher-v1.0.1/launcher_manifest.json",
+  "latest_launcher_version": "1.0.3",
+  "launcher_manifest_url": "https://github.com/Easton25300/LoGOrigins-Distribution/releases/download/launcher-v1.0.3/launcher_manifest.json",
 
   "changelog": [
-    "Launcher self-update system online",
-    "Game update and repair system improved",
-    "Launcher settings and update notifications improved"
+    "Private beta testing phase is now live",
+    "Launcher activation system enabled",
+    "Launcher update and repair systems improved",
+    "Game running state and launcher behavior improved",
+    "General launcher polish and stability improvements"
   ]
 }
