@@ -1,6 +1,6 @@
 ﻿{
-  "latest_game_version": "0.1.2",
-  "game_manifest_url": "https://github.com/Easton25300/LoGOrigins-Distribution/releases/download/game-v0.1.2/manifest.json",
+  "latest_game_version": "0.1.3",
+  "game_manifest_url": "https://github.com/Easton25300/LoGOrigins-Distribution/releases/download/game-v0.1.3/manifest.json",
 
   "latest_launcher_version": "1.0.3",
   "launcher_manifest_url": "https://github.com/Easton25300/LoGOrigins-Distribution/releases/download/launcher-v1.0.3/launcher_manifest.json",
@@ -10,6 +10,6 @@
     "Launcher activation system enabled",
     "Launcher update and repair systems improved",
     "Game running state and launcher behavior improved",
-    "General launcher polish and stability improvements"
+    "Private beta game build 0.1.3 available"
   ]
 }
